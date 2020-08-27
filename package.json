@@ -29,7 +29,7 @@
     "connect-flash": "~0.1.1",
     "connect-mongo": "~0.3.3",
     "connect-redis": "~1.4.5",
-    "debug": "~0.7.2",
+    "debug": "~4.1.1",
     "express": "~3.3.8",
     "express-validator": "~0.7.0",
     "express3-handlebars": "~0.5.0",
